@@ -1,0 +1,8 @@
+{
+  "name": "my-static-site",
+  "compatibility_date": "2025-08-03",
+  "assets": {
+    "directory": ".",
+    "html_handling": "auto-trailing-slash"  // 末尾スラッシュの自動処理
+  }
+}
